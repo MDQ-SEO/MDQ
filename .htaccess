@@ -1,0 +1,14 @@
+RewriteEngine On
+
+# 1. Force HTTPS and WWW in one single step (Fixes the Redirect Loop)
+RewriteCond %{HTTPS} off [OR]
+RewriteCond %{HTTP_HOST} !^www\. [NC]
+RewriteRule ^(.*)$ https://www.mdqualityapps.com/$1 [L,R=301]
+
+# 2. Remove .php extension from URLs
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteCond %{REQUEST_FILENAME}\.php -f
+RewriteRule ^([^\.]+)/?$ $1.php [NC,L]
+
+# 3. External redirect for PMS demo
+Redirect 301 /pms https://pmsdemo.mdqualityapps.in/pms/
