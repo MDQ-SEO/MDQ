@@ -2,18 +2,29 @@
 include 'connect.php';
 session_start();
 
-if(isset($_POST['submit'])){
+if (isset($_POST['submit'])) {
     $name = $_POST["name"];
     $password = $_POST["password"];
 
-    $encr = hash('sha256', $password);
-    $query = mysqli_query($conn, "SELECT name, password from signin Where name='$name' and password= '$encr'");
+    // Use prepared statement (prevent SQL injection)
+    $stmt = $conn->prepare("SELECT name, password FROM signin WHERE name = ?");
+    $stmt->bind_param("s", $name);
+    $stmt->execute();
+    $result = $stmt->get_result();
 
-    if (mysqli_num_rows($query) > 0) {
-        $_SESSION['email'] = $name;
-        echo "<script>alert('Login Successful'); window.location.href='home.php'</script>";
+    if ($row = $result->fetch_assoc()) {
+
+        // Verify hashed password
+        if (password_verify($password, $row['password'])) {
+            $_SESSION['email'] = $row['name'];
+            echo "<script>alert('Login Successful'); window.location.href='home.php'</script>";
+        } else {
+            echo "<script>alert('Invalid password'); window.location.href='index.php'</script>";
+        }
+
     } else {
-        echo "<script>alert('Please check your username password'); window.location.href='index.php'</script>" . mysqli_error($conn);
+        echo "<script>alert('User not found'); window.location.href='index.php'</script>";
     }
 }
 ?>
+
