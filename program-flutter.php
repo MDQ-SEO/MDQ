@@ -179,7 +179,7 @@ include './header.php';
 }
 </script>
 
-    <!-- end of git remote set-url origin https://github.com/MDQ-SEO/MDQ-SEO.git markup -->
+    <!-- end of git remote set-url origin https://github.com/MDQ-SEO/MDQ-SEO.git  markup -->
 
 </head>
 <div class="website-background " style="background-color:#F7FDFF; padding-top:95px">
