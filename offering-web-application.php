@@ -46,7 +46,7 @@ include './header.php';
     "url": "https://www.mdqualityapps.com/offering-web-application.php",
     "vatID": "33ABPFM9307G1Z2",
     "telephone": "+918838995745",
-    "priceRange": "$$",
+    
     "address": {
       "@type": "PostalAddress",
       "streetAddress": "#2B, Vel Nagar, 6th Cross St, Maduravoyal",
