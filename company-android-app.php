@@ -54,7 +54,7 @@ s.parentNode.insertBefore(b, s);})(window.lintrk);
 </head>
 <div class="website-background" style="background-color: #F7FDFF; padding-top:95px">
     <div class="intro" style="background-color:#081A48">
-        <h1 class="pt-4" style="color:white; text-align: center; font-weight:600">Android App Development Agency</h1>
+        <h1 class="pt-4" style="color:white; text-align: center; font-weight:600"> Android App Development Company in Chennai</h1>
         <svg class="intro-wave" style="margin-bottom: -2px;" id="wave" style="transform:rotate(0deg); transition: 0.3s" viewBox="0 0 1440 240" version="1.1" xmlns="http://www.w3.org/2000/svg">
             <defs>
                 <linearGradient id="sw-gradient-0" x1="0" x2="0" y1="1" y2="0">
@@ -69,11 +69,11 @@ s.parentNode.insertBefore(b, s);})(window.lintrk);
     <div class="container-fluid px-.">
         <div class="row py-3">
             <div class="col-lg-6" data-aos="fade-up" data-aos-duration="1500" data-aos-delay="100">
-                <p class="website-para">MDQuality Apps is your premier Android app development agency in India, specializing in crafting high-quality applications tailored to your unique needs. Android is widely regarded as the optimal platform for startups and emerging businesses, and our services are meticulously crafted to not only meet the demands of these new ventures but also to support established companies and their SME counterparts. As a dedicated Android development company, we guarantee scalability and proficiency across all facets of Android app development. Whether you're a burgeoning startup or an established enterprise, trust MDQuality Apps to deliver top-notch solutions that elevate your business to new heights.</p>
+                <p class="website-para">MDQuality Apps is your leading Android app development agency in India, Chennai specializing in crafting high-quality applications tailored to your unique needs. Android is widely regarded as the optimal platform for startups and emerging businesses, and our services are meticulously crafted to not only meet the demands of these new ventures but also to support established companies and their SME counterparts. As a dedicated best Android development company, we guarantee scalability and proficiency across all facets of Android app development. Whether you're a burgeoning startup or an established enterprise, trust MDQuality Apps to deliver top-notch solutions that elevate your business to new heights.</p>
             </div>
             <div class="col-lg-6 d-flex justify-content-center align-items-center">
                 <div class="sec-mov-img d-flex justify-content-center">
-                    <img class="" src="images/vector-images/company-app.png" width="60%" alt="best android and ios development company">
+                    <img class="" src="images/vector-images/company-app.png" width="60%" alt="best android and ios development company-chennai">
                 </div>
             </div>
         </div>
@@ -81,7 +81,7 @@ s.parentNode.insertBefore(b, s);})(window.lintrk);
         <div class="row py-3">
             <div class="col-lg-6 d-flex justify-content-center align-items-center">
                 <div class="sec-mov-img d-flex justify-content-center">
-                    <img class="" src="images/vector-images/company-app-1.png" width="60%" alt="best ios app development company">
+                    <img class="" src="images/vector-images/company-app-1.png" width="60%" alt="best ios app development company-Chennai India">
                 </div>
             </div>
             <div class="col-lg-6" data-aos="fade-up" data-aos-duration="1500" data-aos-delay="100">
