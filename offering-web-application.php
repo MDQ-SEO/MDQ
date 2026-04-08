@@ -119,7 +119,7 @@ include './header.php';
 <div class="website-background" style="background-color: #F7FDFF; padding-top:95px">
 <div class="intro" style="background-color:#081A48">
         <h1 class="pt-4" style="color:white; text-align: center; font-weight:600">Web Application Development Company in Chennai, India</h1>
-        <h2 style="color:#1C46A8; font-weight:300;">Delivering Scalable & Secure Digital Solutions</h2>
+        <h2 style="color:#1C46A8; font-weight:300; text-align: center;">Delivering Scalable & Secure Digital Solutions</h2>
         <svg class="intro-wave" style="margin-bottom: -2px;" id="wave" style="transform:rotate(0deg); transition: 0.3s" viewBox="0 0 1440 240" version="1.1" xmlns="http://www.w3.org/2000/svg">
             <defs>
                 <linearGradient id="sw-gradient-0" x1="0" x2="0" y1="1" y2="0">
@@ -134,7 +134,7 @@ include './header.php';
     <div class="container-fluid px-5">
         <div class="row py-3">
             <div class="col-lg-6" data-aos="fade-up" data-aos-duration="1500" data-aos-delay="100">
-            <h2 style="color:#FFFFFF; font-weight:400;">At MDQuality Apps, we deliver custom web application development tailored to your business goals. As a trusted development partner, we build secure, scalable solutions that streamline operations and accelerate digital growth.</p>
+            <p class="website-para">At MDQuality Apps, we deliver custom web application development tailored to your business goals. As a trusted development partner, we build secure, scalable solutions that streamline operations and accelerate digital growth.</p>
         <h3 style="color:#1C46A8; font-weight:700;">Why Choose MDQuality Apps for Web Application Development Services?</h3>
             <p class="website-para">Our expert team has delivered 120+ web application projects worldwide. We specialize in custom intranet and extranet portals, scalable e-commerce platforms, and robust B2B/B2C solutions that streamline operations and drive business growth.</p>
             </div>
