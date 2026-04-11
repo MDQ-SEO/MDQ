@@ -6,21 +6,21 @@ include './header.php';
 <meta name="keywords" content="ASP.NET development services, .NET application development, Dedicated ASP.NET developers, ASP.NET consulting services" />
 <title>Hire Expert ASP.NET Developers for Custom Solutions</title>
 <meta name="robots" content="max-image-preview:large" />
-    <link rel="canonical" href="https://www.mdqualityapps.com/hire-asp.net-developers.php" />
+    <link rel="canonical" href="https://www.mdqualityapps.com/hire-asp.net-developers" />
     <meta property="og:locale" content="en_US" />
     <meta property="og:site_name" content="MDQuality Apps Solutions" />
     <meta property="og:title" content="Hire Expert ASP.NET Developers for Custom Solutions" />
     <meta property="og:description" content="Looking to hire ASP.NET developers in Chennai, India? MDQuality Apps provides skilled ASP.NET developers to build secure and scalable web applications." />
-    <meta property="og:url" content="https://mdqualityapps.com/hire-asp.net-developers.php" />
+    <meta property="og:url" content="https://www.mdqualityapps.com/hire-asp.net-developers" />
     <meta property="article:publisher" content="MDQuality Apps Solutions" />
-    <meta property="og:image" content="https://mdqualityapps.com/" />
-    <meta property="og:image:secure_url" content="https://mdqualityapps.com/" />
+    <meta property="og:image" content="https://www.mdqualityapps.com/" />
+    <meta property="og:image:secure_url" content="https://www.mdqualityapps.com/" />
     <meta property="og:image:width" content="1640px" />
     <meta property="og:image:height" content="856px" />
     <meta name="twitter:card" content="summary_large_image" />
     <meta name="twitter:description" content="Looking to hire ASP.NET developers in Chennai, India? MDQuality Apps provides skilled ASP.NET developers to build secure and scalable web applications." />
     <meta name="twitter:title" content="Hire Expert ASP.NET Developers for Custom Solutions" />
-    <meta name="twitter:image" content="https://mdqualityapps.com/" />
+    <meta name="twitter:image" content="https://www.mdqualityapps.com/" />
 <style>
         .card-services {
             border: none;

@@ -6,21 +6,21 @@ include './header.php';
 <meta name="keywords" content="Blockchain development services, Innovative blockchain solutions, Cryptocurrency development services" />
 <title>Blockchain Development Services for Innovative Solutions | MDQuality Apps</title>
 <meta name="robots" content="max-image-preview:large" />
-    <link rel="canonical" href="https://www.mdqualityapps.com/services-trending-blockchain.php" />
+    <link rel="canonical" href="https://www.mdqualityapps.com/services-trending-blockchain" />
     <meta property="og:locale" content="en_US" />
     <meta property="og:site_name" content="MDQuality Apps Solutions" />
     <meta property="og:title" content="Blockchain Development Services for Innovative Solutions | MDQuality Apps" />
     <meta property="og:description" content="Our skilled team crafts cutting-edge solutions for secure, transparent, and efficient processes. Contact us for leading blockchain technology expertise and transformative development services." />
-    <meta property="og:url" content="https://mdqualityapps.com/services-trending-blockchain.php" />
+    <meta property="og:url" content="https://www.mdqualityapps.com/services-trending-blockchain" />
     <meta property="article:publisher" content="MDQuality Apps Solutions" />
-    <meta property="og:image" content="https://mdqualityapps.com/" />
-    <meta property="og:image:secure_url" content="https://mdqualityapps.com/" />
+    <meta property="og:image" content="https://www.mdqualityapps.com/" />
+    <meta property="og:image:secure_url" content="https://www.mdqualityapps.com/" />
     <meta property="og:image:width" content="1640px" />
     <meta property="og:image:height" content="856px" />
     <meta name="twitter:card" content="summary_large_image" />
     <meta name="twitter:description" content="Our skilled team crafts cutting-edge solutions for secure, transparent, and efficient processes. Contact us for leading blockchain technology expertise and transformative development services." />
     <meta name="twitter:title" content="Blockchain Development Services for Innovative Solutions | MDQuality Apps" />
-    <meta name="twitter:image" content="https://mdqualityapps.com/" />
+    <meta name="twitter:image" content="https://www.mdqualityapps.com/" />
 <style>
         .card-services {
             border: none;

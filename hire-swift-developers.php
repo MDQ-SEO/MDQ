@@ -6,20 +6,20 @@ include './header.php';
 <meta name="keywords" content="Swift app development, Swift app development services, Hire Swift developers, Professional Swift development company" />
 <title>Hire Expert Swift Developers for Seamless iOS App Development</title>
 <meta name="robots" content="max-image-preview:large" />
-    <link rel="canonical" href="https://www.mdqualityapps.com/hire-swift-developers.php" />
+    <link rel="canonical" href="https://www.mdqualityapps.com/hire-swift-developers" />
     <meta property="og:locale" content="en_US" />
     <meta property="og:site_name" content="MDQuality Apps Solutions" />
     <meta property="og:title" content="Hire Expert Swift Developers for Seamless iOS App Development" />
     <meta property="og:description" content="Hire expert Swift developers in Chennai from MDQuality Apps for your next mobile app project. Build secure, scalable, and high-performance iOS applications." />
-    <meta property="og:url" content="https://mdqualityapps.com/hire-swift-developers.php" />
+    <meta property="og:url" content="https://www.mdqualityapps.com/hire-swift-developers" />
     <meta property="article:publisher" content="MDQuality Apps Solutions" />
-    <meta property="og:image" content="https://mdqualityapps.com/" />
-    <meta property="og:image:secure_url" content="https://mdqualityapps.com/" />
+    <meta property="og:image" content="https://www.mdqualityapps.com/" />
+    <meta property="og:image:secure_url" content="https://www.mdqualityapps.com/" />
     <meta property="og:image:width" content="1640px" />
     <meta property="og:image:height" content="856px" />
     <meta name="twitter:card" content="summary_large_image" />
     <meta name="twitter:description" content="Hire expert Swift developers in Chennai from MDQuality Apps for your next mobile app project. Build secure, scalable, and high-performance iOS applications." />
-    <meta name="twitter:image" content="https://mdqualityapps.com/" />
+    <meta name="twitter:image" content="https://www.mdqualityapps.com/" />
 <style>
         .card-services {
             border: none;

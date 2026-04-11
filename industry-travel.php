@@ -6,21 +6,21 @@ include './header.php';
 <meta name="keywords" content="Mobile App Solutions for Travel, Web App Development for Travel Experiences, Transformative Mobile Apps for Travel" />
 <title>Travel & Hospitality App Development in Chennai, India | MDQuality Apps</title>
 <meta name="robots" content="max-image-preview:large" />
-<link rel="canonical" href="https://www.mdqualityapps.com/industry-travel.php" />
+<link rel="canonical" href="https://www.mdqualityapps.com/industry-travel" />
 <meta property="og:locale" content="en_US" />
 <meta property="og:site_name" content="MDQuality Apps Solutions" />
 <meta property="og:title" content="Travel & Hospitality App Development in Chennai, India | MDQuality Apps" />
 <meta property="og:description" content="Travel and hospitality app development in Chennai, India by MDQuality Apps. Build booking platforms, travel portals, and tourism apps for modern travel businesses." />
 <meta property="og:url" content="https://mdqualityapps.com/industry-travel.php" />
 <meta property="article:publisher" content="MDQuality Apps Solutions" />
-<meta property="og:image" content="https://mdqualityapps.com/" />
+<meta property="og:image" content="https://www.mdqualityapps.com/" />
 <meta property="og:image:secure_url" content="https://mdqualityapps.com/" />
 <meta property="og:image:width" content="1640px" />
 <meta property="og:image:height" content="856px" />
 <meta name="twitter:card" content="summary_large_image" />
 <meta name="twitter:description" content="Travel and hospitality app development in Chennai, India by MDQuality Apps. Build booking platforms, travel portals, and tourism apps for modern travel businesses." />
 <meta name="twitter:title" content="Travel & Hospitality App Development in Chennai, India | MDQuality Apps" />
-<meta name="twitter:image" content="https://mdqualityapps.com/" />
+<meta name="twitter:image" content="https://www.mdqualityapps.com/" />
 <style>
         .card-services {
             border: none;

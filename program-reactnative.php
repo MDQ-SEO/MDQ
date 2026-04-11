@@ -7,7 +7,7 @@ include './header.php';
     <meta name="keywords" content="React Native development services, React Native app development, React Native outsourcing" />
     <title>Hire Expert React Native Developers for Mobile App Development</title>
     <meta name="robots" content="max-image-preview:large" />
-    <link rel="canonical" href="https://www.mdqualityapps.com/program-reactnative.php" />
+    <link rel="canonical" href="https://www.mdqualityapps.com/program-reactnative" />
     <meta property="og:locale" content="en_US" />
     <meta property="og:site_name" content="MDQuality Apps Solutions" />
     <meta property="og:title" content="Hire Expert React Native Developers for Mobile App Development" />

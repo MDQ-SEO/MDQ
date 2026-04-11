@@ -6,21 +6,21 @@ include './header.php';
 <meta name="keywords" content="Salesforce Professional Services, Expert Salesforce Solutions, Salesforce Implementation, Salesforce Support Services" />
 <title>Salesforce Development in Chennai, India | MDQuality Apps</title>
 <meta name="robots" content="max-image-preview:large" />
-<link rel="canonical" href="https://www.mdqualityapps.com/platform-salesforce.php" />
+<link rel="canonical" href="https://www.mdqualityapps.com/platform-salesforce" />
 <meta property="og:locale" content="en_US" />
 <meta property="og:site_name" content="MDQuality Apps Solutions" />
 <meta property="og:title" content="Salesforce Development in Chennai, India | MDQuality Apps" />
 <meta property="og:description" content="Salesforce development services in Chennai, India by MDQuality Apps. We deliver CRM customization, integration, and cloud solutions to streamline business operations." />
-<meta property="og:url" content="https://mdqualityapps.com/platform-salesforce.php" />
+<meta property="og:url" content="https://www.mdqualityapps.com/platform-salesforce" />
 <meta property="article:publisher" content="MDQuality Apps Solutions" />
-<meta property="og:image" content="https://mdqualityapps.com/" />
-<meta property="og:image:secure_url" content="https://mdqualityapps.com/" />
+<meta property="og:image" content="https://www.mdqualityapps.com/" />
+<meta property="og:image:secure_url" content="https://www.mdqualityapps.com/" />
 <meta property="og:image:width" content="1640px" />
 <meta property="og:image:height" content="856px" />
 <meta name="twitter:card" content="summary_large_image" />
 <meta name="twitter:description" content="Salesforce development services in Chennai, India by MDQuality Apps. We deliver CRM customization, integration, and cloud solutions to streamline business operations." />
 <meta name="twitter:title" content="Salesforce Development in Chennai, India | MDQuality Apps" />
-<meta name="twitter:image" content="https://mdqualityapps.com/" />
+<meta name="twitter:image" content="https://www.mdqualityapps.com/" />
 <style>
         .card-services {
             border: none;

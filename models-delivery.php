@@ -6,21 +6,21 @@ include './header.php';
     <meta name="keywords" content="Delivery Mobile App Developers India, Top-rated Delivery App Development Team, Best App Developers in India" />
     <title>Delivery Mobile & Web App Development</title>
 <meta name="robots" content="max-image-preview:large" />
-    <link rel="canonical" href="https://www.mdqualityapps.com/models-delivery.php" />
+    <link rel="canonical" href="https://www.mdqualityapps.com/models-delivery" />
     <meta property="og:locale" content="en_US" />
     <meta property="og:site_name" content="MDQuality Apps Solutions" />
     <meta property="og:title" content="Hire Top-rated Mobile Application Developers Team in India" />
     <meta property="og:description" content="Looking to hire a dedicated mobile application developers team in India? Contact us for reliable and cost-effective solutions." />
-    <meta property="og:url" content="https://mdqualityapps.com/models-delivery.php" />
+    <meta property="og:url" content="https://www.mdqualityapps.com/models-delivery" />
     <meta property="article:publisher" content="MDQuality Apps Solutions" />
-    <meta property="og:image" content="https://mdqualityapps.com/" />
-    <meta property="og:image:secure_url" content="https://mdqualityapps.com/" />
+    <meta property="og:image" content="https://www.mdqualityapps.com/" />
+    <meta property="og:image:secure_url" content="https://www.mdqualityapps.com/" />
     <meta property="og:image:width" content="1640px" />
     <meta property="og:image:height" content="856px" />
     <meta name="twitter:card" content="summary_large_image" />
     <meta name="twitter:description" content="Looking to hire a dedicated mobile application developers team in India? Contact us for reliable and cost-effective solutions." />
     <meta name="twitter:title" content="Hire Top-rated Mobile Application Developers Team in India" />
-    <meta name="twitter:image" content="https://mdqualityapps.com/" />
+    <meta name="twitter:image" content="https://www.mdqualityapps.com/" />
 <style>
         .card-services {
             border: none;

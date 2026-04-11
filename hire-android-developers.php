@@ -7,21 +7,21 @@ include './header.php';
     <meta name="keywords" content="Android app development, Custom mobile app development, Hire Android app developers, Mobile app development services, Hire dedicated Android developers" />
     <title>Hire Expert Android Developers for Custom Mobile App Development</title>
     <meta name="robots" content="max-image-preview:large" />
-    <link rel="canonical" href="https://mdqualityapps.com/hire-android-developers.php" />
+    <link rel="canonical" href="https://www.mdqualityapps.com/hire-android-developers" />
     <meta property="og:locale" content="en_US" />
     <meta property="og:site_name" content="MDQuality Apps Solutions" />
     <meta property="og:title" content="Hire Expert Android Developers for Custom Mobile App Development" />
     <meta property="og:description" content="Looking to hire Android developers in Chennai, India? MDQuality Apps offers skilled Android app developers to build powerful and scalable mobile apps." />
-    <meta property="og:url" content="https://www.mdqualityapps.com/hire-android-developers.php" />
+    <meta property="og:url" content="https://www.mdqualityapps.com/hire-android-developers" />
     <meta property="article:publisher" content="MDQuality Apps Solutions" />
-    <meta property="og:image" content="https://mdqualityapps.com/" />
-    <meta property="og:image:secure_url" content="https://mdqualityapps.com/" />
+    <meta property="og:image" content="https://www.mdqualityapps.com/" />
+    <meta property="og:image:secure_url" content="https://www.mdqualityapps.com/" />
     <meta property="og:image:width" content="1640px" />
     <meta property="og:image:height" content="856px" />
     <meta name="twitter:card" content="summary_large_image" />
     <meta name="twitter:description" content="Looking to hire Android developers in Chennai, India? MDQuality Apps offers skilled Android app developers to build powerful and scalable mobile apps." />
     <meta name="twitter:title" content="Hire Expert Android Developers for Custom Mobile App Development" />
-    <meta name="twitter:image" content="https://mdqualityapps.com/" />
+    <meta name="twitter:image" content="https://www.mdqualityapps.com/" />
     <style>
         .card-services {
             border: none;

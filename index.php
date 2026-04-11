@@ -8,21 +8,21 @@ include './connect.php'
     <meta name="description" content="Elevate your digital journey with the premier software development company in India, Dubai, and the USA. Transform ideas into powerful solutions." />
     <meta name="keywords" content="mobile app development company in chennai, india, website development company in chennai, india" />
     <meta name="robots" content="max-image-preview:large" />
-    <link rel="canonical" href="https://mdqualityapps.com" />
+    <link rel="canonical" href="https://www.mdqualityapps.com" />
     <meta property="og:locale" content="en_US" />
     <meta property="og:site_name" content="MDQuality Apps Solutions" />
     <meta property="og:title" content="Leading Software Development Company in India, Dubai, USA" />
     <meta property="og:description" content="Elevate your digital journey with the premier software development company in India, Dubai, and the USA. Transform ideas into powerful solutions." />
-    <meta property="og:url" content="https://mdqualityapps.com/" />
+    <meta property="og:url" content="https://www.mdqualityapps.com/" />
     <meta property="article:publisher" content="MDQuality Apps Solutions" />
-    <meta property="og:image" content="https://mdqualityapps.com/" />
-    <meta property="og:image:secure_url" content="https://mdqualityapps.com/" />
+    <meta property="og:image" content="https://www.mdqualityapps.com/" />
+    <meta property="og:image:secure_url" content="https://www.mdqualityapps.com/" />
     <meta property="og:image:width" content="1640px" />
     <meta property="og:image:height" content="856px" />
     <meta name="twitter:card" content="summary_large_image" />
     <meta name="twitter:description" content="Elevate your digital journey with the premier software development company in India, Dubai, and the USA. Transform ideas into powerful solutions." />
     <meta name="twitter:title" content="Leading Software Development Company in India, Dubai, USA" />
-    <meta name="twitter:image" content="https://mdqualityapps.com/" />
+    <meta name="twitter:image" content="https://www.mdqualityapps.com/" />
     <meta name="google-site-verification" content="BtW4V-RlmV8H_H0J4GJ-0eJmEg8Sao375uqi40OB9KQ" />
 
 

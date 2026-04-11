@@ -6,21 +6,21 @@ include './header.php';
 <meta name="keywords" content="Node.js application development company, Scalable application development services, Node.js API development" />
 <title>Node.js Development Services | Transform Your Ideas into Applications</title>
 <meta name="robots" content="max-image-preview:large" />
-    <link rel="canonical" href="https://www.mdqualityapps.com/program-nodejs.php" />
+    <link rel="canonical" href="https://www.mdqualityapps.com/program-nodejs" />
     <meta property="og:locale" content="en_US" />
     <meta property="og:site_name" content="MDQuality Apps Solutions" />
     <meta property="og:title" content="Node.js Development Services | Transform Your Ideas into Applications" />
     <meta property="og:description" content="Delivers scalable and high-performance solutions tailored to your unique requirements. Contact us for innovative and reliable Node.js development services." />
-    <meta property="og:url" content="https://mdqualityapps.com/program-nodejs.php" />
+    <meta property="og:url" content="https://www.mdqualityapps.com/program-nodejs" />
     <meta property="article:publisher" content="MDQuality Apps Solutions" />
-    <meta property="og:image" content="https://mdqualityapps.com/" />
-    <meta property="og:image:secure_url" content="https://mdqualityapps.com/" />
+    <meta property="og:image" content="https://www.mdqualityapps.com/" />
+    <meta property="og:image:secure_url" content="https://www.mdqualityapps.com/" />
     <meta property="og:image:width" content="1640px" />
     <meta property="og:image:height" content="856px" />
     <meta name="twitter:card" content="summary_large_image" />
     <meta name="twitter:description" content="Delivers scalable and high-performance solutions tailored to your unique requirements. Contact us for innovative and reliable Node.js development services." />
     <meta name="twitter:title" content="Node.js Development Services | Transform Your Ideas into Applications" />
-    <meta name="twitter:image" content="https://mdqualityapps.com/" />
+    <meta name="twitter:image" content="https://www.mdqualityapps.com/" />
 <style>
         .card-services {
             border: none;

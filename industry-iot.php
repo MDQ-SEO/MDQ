@@ -7,21 +7,21 @@ include './header.php';
     <meta name="keywords" content="IoT Mobile App Developers India, Top-rated IoT Development Team, Best App Developers in India, Hire Dedicated App Developers" />
     <title>IoT App Development Company in Chennai, India | MDQuality Apps</title>
     <meta name="robots" content="max-image-preview:large" />
-    <link rel="canonical" href="https://www.mdqualityapps.com/industry-iot.php" />
+    <link rel="canonical" href="https://www.mdqualityapps.com/industry-iot" />
     <meta property="og:locale" content="en_US" />
     <meta property="og:site_name" content="MDQuality Apps Solutions" />
     <meta property="og:title" content="IoT App Development Company in Chennai, India | MDQuality Apps" />
     <meta property="og:description" content="Build smart IoT applications and connected device solutions with MDQuality Apps in Chennai, India. We develop scalable IoT platforms for automation and smart businesses." />
-    <meta property="og:url" content="https://mdqualityapps.com/industry-iot.php" />
+    <meta property="og:url" content="https://www.mdqualityapps.com/industry-iot.php" />
     <meta property="article:publisher" content="MDQuality Apps Solutions" />
-    <meta property="og:image" content="https://mdqualityapps.com/" />
-    <meta property="og:image:secure_url" content="https://mdqualityapps.com/" />
+    <meta property="og:image" content="https://www.mdqualityapps.com/" />
+    <meta property="og:image:secure_url" content="https://www.mdqualityapps.com/" />
     <meta property="og:image:width" content="1640px" />
     <meta property="og:image:height" content="856px" />
     <meta name="twitter:card" content="summary_large_image" />
     <meta name="twitter:description" content="Build smart IoT applications and connected device solutions with MDQuality Apps in Chennai, India. We develop scalable IoT platforms for automation and smart businesses." />
     <meta name="twitter:title" content="IoT App Development Company in Chennai, India | MDQuality Apps" />
-    <meta name="twitter:image" content="https://mdqualityapps.com/" />
+    <meta name="twitter:image" content="https://www.mdqualityapps.com/" />
     <style>
         .card-services {
             border: none;

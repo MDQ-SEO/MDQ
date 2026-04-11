@@ -6,21 +6,21 @@ include './header.php';
 <meta name="keywords" content="Flutter development services, Expert Flutter developers, Top Flutter app development, Hire Flutter app developers, Flutter app development company, Flutter mobile app experts" />
 <title>Hire Expert Flutter Developers for Your Next Project | MDQuality Apps</title>
 <meta name="robots" content="max-image-preview:large" />
-    <link rel="canonical" href="https://www.mdqualityapps.com/hire-flutter-developers.php" />
+    <link rel="canonical" href="https://www.mdqualityapps.com/hire-flutter-developers" />
     <meta property="og:locale" content="en_US" />
     <meta property="og:site_name" content="MDQuality Apps Solutions" />
     <meta property="og:title" content="Hire Flutter Developers in Chennai | MDQuality Apps" />
     <meta property="og:description" content="Hire expert Flutter developers in Chennai from MDQuality Apps to build high-performance mobile applications for your next project. Contact us today." />
-    <meta property="og:url" content="https://mdqualityapps.com/hire-flutter-developers.php" />
+    <meta property="og:url" content="https://www.mdqualityapps.com/hire-flutter-developers" />
     <meta property="article:publisher" content="MDQuality Apps Solutions" />
-    <meta property="og:image" content="https://mdqualityapps.com/" />
-    <meta property="og:image:secure_url" content="https://mdqualityapps.com/" />
+    <meta property="og:image" content="https://www.mdqualityapps.com/" />
+    <meta property="og:image:secure_url" content="https://www.mdqualityapps.com/" />
     <meta property="og:image:width" content="1640px" />
     <meta property="og:image:height" content="856px" />
     <meta name="twitter:card" content="summary_large_image" />
     <meta name="twitter:description" content="Hire expert Flutter developers in Chennai from MDQuality Apps to build high-performance mobile applications for your next project. Contact us today." />
     <meta name="twitter:title" content="Hire Flutter Developers in Chennai | MDQuality Apps" />
-    <meta name="twitter:image" content="https://mdqualityapps.com/" />
+    <meta name="twitter:image" content="https://www.mdqualityapps.com/" />
 <style>
         .card-services {
             border: none;

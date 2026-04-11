@@ -7,22 +7,22 @@ include './header.php';
     <meta name="keywords" content="AR development India, VR development agency, Augmented reality experts, AR VR technology India, XR development company, Mixed reality development India, AR VR app development, AR VR consulting India" />
     <title>AR VR Development Agency in India | MDQuality Apps</title>
     <meta name="robots" content="max-image-preview:large" />
-    <link rel="canonical" href="https://mdqualityapps.com/company-AR-VR.php" />
+    <link rel="canonical" href="https:/www./www.mdqualityapps.com/company-AR-VR" />
     <meta property="og:locale" content="en_US" />
     <meta property="og:site_name" content="MDQuality Apps Solutions" />
     <meta property="og:title" content="AR & VR App Development Company in Chennai, India | MDQuality Apps" />
     <meta property="og:description" content="Explore cutting-edge AR VR development services tailored to your business needs. Contact us for innovative augmented and virtual reality solutions." />
-    <meta property="og:url" content="https://mdqualityapps.com/company-AR-VR.php" />
+    <meta property="og:url" content="https://www.mdqualityapps.com/company-AR-VR" />
     <meta property="article:publisher" content="MDQuality Apps Solutions" />
     <meta property="og:image" content="https://mdqualityapps.com/" />
-    <meta property="og:image:secure_url" content="https://mdqualityapps.com/" />
+    <meta property="og:image:secure_url" content="https://www.mdqualityapps.com/" />
     <meta property="og:image:width" content="1640px" />
     <meta property="og:image:height" content="856px" />
     <meta name="twitter:card" content="summary_large_image" />
     <meta name="twitter:description" content="Explore cutting-edge AR VR development services tailored to your business needs. Contact us for innovative augmented and virtual reality solutions." />
     <meta name="twitter:title" content="AR & VR App Development Company in Chennai, India | MDQuality Apps" />
 
-    <meta name="twitter:image" content="https://mdqualityapps.com/" />
+    <meta name="twitter:image" content="https://www.mdqualityapps.com/" />
     <style>
         .card-services {
             border: none;

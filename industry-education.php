@@ -7,21 +7,21 @@ include './header.php';
     <meta name="keywords" content="Web Development for Education, eLearning Platform Development, Mobile App Development for Education" />
     <title>Education & E-Learning App Development Solutions | MDQuality Apps</title>
     <meta name="robots" content="max-image-preview:large" />
-    <link rel="canonical" href="https://www.mdqualityapps.com/industry-education.php" />
+    <link rel="canonical" href="https://www.mdqualityapps.com/industry-education" />
     <meta property="og:locale" content="en_US" />
     <meta property="og:site_name" content="MDQuality Apps Solutions" />
     <meta property="og:title" content="Education & E-Learning App Development Solutions | MDQuality Apps" />
     <meta property="og:description" content="Build innovative education and e-learning mobile apps and web platforms with MDQuality Apps. Deliver interactive, scalable digital learning solutions for institutions and businesses." />
-    <meta property="og:url" content="https://mdqualityapps.com/industry-education.php" />
+    <meta property="og:url" content="https://www.mdqualityapps.com/industry-education" />
     <meta property="article:publisher" content="MDQuality Apps Solutions" />
-    <meta property="og:image" content="https://mdqualityapps.com/" />
-    <meta property="og:image:secure_url" content="https://mdqualityapps.com/" />
+    <meta property="og:image" content="https://www.mdqualityapps.com/" />
+    <meta property="og:image:secure_url" content="https://www.mdqualityapps.com/" />
     <meta property="og:image:width" content="1640px" />
     <meta property="og:image:height" content="856px" />
     <meta name="twitter:card" content="summary_large_image" />
     <meta name="twitter:description" content="Build innovative education and e-learning mobile apps and web platforms with MDQuality Apps. Deliver interactive, scalable digital learning solutions for institutions and businesses." />
     <meta name="twitter:title" content="Education & E-Learning App Development Solutions | MDQuality Apps" />
-    <meta name="twitter:image" content="https://mdqualityapps.com/" />
+    <meta name="twitter:image" content="https://www.mdqualityapps.com/" />
     <style>
         .card-services {
             border: none;

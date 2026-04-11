@@ -6,21 +6,21 @@ include './header.php';
     <title>Software Development Engagement Models | MDQuality Apps</title>
     <meta description="Explore flexible engagement models at MDQuality Apps in Chennai, India. Choose fixed price, dedicated team, or custom software development models for your projects." />
     <meta name="robots" content="max-image-preview:large" />
-    <link rel="canonical" href="https://www.mdqualityapps.com/models-engagement.php" />
+    <link rel="canonical" href="https://www.mdqualityapps.com/models-engagement" />
     <meta property="og:locale" content="en_US" />
     <meta property="og:site_name" content="MDQuality Apps Solutions" />
     <meta property="og:title" content="Hire Top-rated Mobile Application Developers Team in India" />
     <meta property="og:description" content="Explore flexible engagement models at MDQuality Apps in Chennai, India. Choose fixed price, dedicated team, or custom software development models for your projects." />
-    <meta property="og:url" content="https://mdqualityapps.com/models-engagement.php" />
+    <meta property="og:url" content="https://www.mdqualityapps.com/models-engagement" />
     <meta property="article:publisher" content="MDQuality Apps Solutions" />
-    <meta property="og:image" content="https://mdqualityapps.com/" />
-    <meta property="og:image:secure_url" content="https://mdqualityapps.com/" />
+    <meta property="og:image" content="https://www.mdqualityapps.com/" />
+    <meta property="og:image:secure_url" content="https://www.mdqualityapps.com/" />
     <meta property="og:image:width" content="1640px" />
     <meta property="og:image:height" content="856px" />
     <meta name="twitter:card" content="summary_large_image" />
     <meta name="twitter:description" content="Explore flexible engagement models at MDQuality Apps in Chennai, India. Choose fixed price, dedicated team, or custom software development models for your projects." />
     <meta name="twitter:title" content="Hire Top-rated Mobile Application Developers Team in India" />
-    <meta name="twitter:image" content="https://mdqualityapps.com/" />
+    <meta name="twitter:image" content="https://www.mdqualityapps.com/" />
     <style>
         .card-services {
             border: none;

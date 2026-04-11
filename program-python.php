@@ -6,21 +6,21 @@ include './header.php';
 <meta name="keywords" content="Python development services, Hire expert Python developers, Professional Python development team, Python software development experts, Hire Python software engineers" />
 <title>Hire Top-Tier Python Developers for Your Project | MDQuality Apps</title>
 <meta name="robots" content="max-image-preview:large" />
-    <link rel="canonical" href="https://www.mdqualityapps.com/program-python.php" />
+    <link rel="canonical" href="https://www.mdqualityapps.com/program-python" />
     <meta property="og:locale" content="en_US" />
     <meta property="og:site_name" content="MDQuality Apps Solutions" />
     <meta property="og:title" content="Hire Top-Tier Python Developers for Your Project | MDQuality Apps" />
     <meta property="og:description" content="Our top-tier Python programmers bring expertise and innovation to ensure the success of your development needs. Explore our skilled Python developers for hire today." />
-    <meta property="og:url" content="https://mdqualityapps.com/program-python.php" />
+    <meta property="og:url" content="https://www.mdqualityapps.com/program-python" />
     <meta property="article:publisher" content="MDQuality Apps Solutions" />
-    <meta property="og:image" content="https://mdqualityapps.com/" />
-    <meta property="og:image:secure_url" content="https://mdqualityapps.com/" />
+    <meta property="og:image" content="https://www.mdqualityapps.com/" />
+    <meta property="og:image:secure_url" content="https://www.mdqualityapps.com/" />
     <meta property="og:image:width" content="1640px" />
     <meta property="og:image:height" content="856px" />
     <meta name="twitter:card" content="summary_large_image" />
     <meta name="twitter:description" content="Our top-tier Python programmers bring expertise and innovation to ensure the success of your development needs. Explore our skilled Python developers for hire today." />
     <meta name="twitter:title" content="Hire Top-Tier Python Developers for Your Project | MDQuality Apps" />
-    <meta name="twitter:image" content="https://mdqualityapps.com/" />
+    <meta name="twitter:image" content="https://www.mdqualityapps.com/" />
 <style>
         .card-services {
             border: none;

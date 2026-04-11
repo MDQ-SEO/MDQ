@@ -7,21 +7,21 @@ include './header.php';
     <meta name="keywords" content="Custom logistics applications, Web app solutions for distribution, Mobile app development for logistics" />
     <title>Logistics & Supply Chain App Development in Chennai, India | MDQuality Apps</title>
     <meta name="robots" content="max-image-preview:large" />
-    <link rel="canonical" href="https://www.mdqualityapps.com/industry-logistics.php" />
+    <link rel="canonical" href="https://www.mdqualityapps.com/industry-logistics" />
     <meta property="og:locale" content="en_US" />
     <meta property="og:site_name" content="MDQuality Apps Solutions" />
     <meta property="og:title" content="ELogistics & Supply Chain App Development in Chennai, India | MDQuality Apps" />
     <meta property="og:description" content="Build logistics and supply chain management apps with MDQuality Apps in Chennai, India. We develop fleet tracking, warehouse, and delivery management solutions." />
-    <meta property="og:url" content="https://mdqualityapps.com/industry-logistics.php" />
+    <meta property="og:url" content="https://www.mdqualityapps.com/industry-logistics.php" />
     <meta property="article:publisher" content="MDQuality Apps Solutions" />
-    <meta property="og:image" content="https://mdqualityapps.com/" />
+    <meta property="og:image" content="https://www.mdqualityapps.com/" />
     <meta property="og:image:secure_url" content="https://mdqualityapps.com/" />
     <meta property="og:image:width" content="1640px" />
     <meta property="og:image:height" content="856px" />
     <meta name="twitter:card" content="summary_large_image" />
     <meta name="twitter:description" content="Build logistics and supply chain management apps with MDQuality Apps in Chennai, India. We develop fleet tracking, warehouse, and delivery management solutions." />
     <meta name="twitter:title" content="Logistics & Supply Chain App Development in Chennai, India | MDQuality Apps
-    <meta name="twitter:image" content="https://mdqualityapps.com/" />
+    <meta name="twitter:image" content="https://www.mdqualityapps.com/" />
     <style>
         .card-services {
             border: none;

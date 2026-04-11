@@ -10,12 +10,12 @@ include './header.php';
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js"></script>
     <script src="https://kit.fontawesome.com/42ccddb556.js" crossorigin="anonymous"></script>
     <meta name="robots" content="max-image-preview:large" />
-    <link rel="canonical" href="https://www.mdqualityapps.com/aboutus.php" />
+    <link rel="canonical" href="https://www.mdqualityapps.com/aboutus" />
     <meta property="og:locale" content="en_US" />
     <meta property="og:site_name" content="MDQuality Apps Solutions" />
     <meta property="og:title" content="Reliable application development services, Customized application solutions" />
     <meta property="og:description" content="Meet MDQuality Apps, a leading Flutter app and web development company in Chennai, India delivering custom mobile apps and website solutions." />
-    <meta property="og:url" content="https://www.mdqualityapps.com/aboutus.php" />
+    <meta property="og:url" content="https://www.mdqualityapps.com/aboutus" />
     <meta property="article:publisher" content="MDQuality Apps Solutions" />
             <meta property="og:image" content="https://www.mdqualityapps.com/" />
         <meta property="og:image:secure_url" content="https://www.mdqualityapps.com/" />
@@ -25,7 +25,7 @@ include './header.php';
     <meta name="twitter:description" content="Supercharge your digital success with MDQuality Apps – where expertise meets excellence! Our stellar software and application development team craft cutting-edge solutions to propel your business forward." />
     <meta name="twitter:title" content="Reliable application development services, Customized application solutions" />
 
-            <meta name="twitter:image" content="https://mdqualityapps.com/" />
+            <meta name="twitter:image" content="https://www.mdqualityapps.com/" />
     <style>
         .group-photo {
             position: relative;

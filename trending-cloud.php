@@ -6,21 +6,21 @@ include './header.php';
 <meta name="keywords" content="Cloud consulting services, Cloud solutions provider, Cloud implementation services, Cloud infrastructure solutions" />
 <title>Strategic Cloud Consulting Services | Expert Cloud Solutions</title>
 <meta name="robots" content="max-image-preview:large" />
-    <link rel="canonical" href="https://www.mdqualityapps.com/trending-cloud.php" />
+    <link rel="canonical" href="https://www.mdqualityapps.com/trending-cloud" />
     <meta property="og:locale" content="en_US" />
     <meta property="og:site_name" content="MDQuality Apps Solutions" />
     <meta property="og:title" content="Strategic Cloud Consulting Services | Expert Cloud Solutions" />
     <meta property="og:description" content="From migration to optimization, trust us for tailored solutions that elevate your business to new heights. Contact us for seamless and efficient cloud operations." />
-    <meta property="og:url" content="https://mdqualityapps.com/trending-cloud.php" />
+    <meta property="og:url" content="https://www.mdqualityapps.com/trending-cloud" />
     <meta property="article:publisher" content="MDQuality Apps Solutions" />
-    <meta property="og:image" content="https://mdqualityapps.com/" />
-    <meta property="og:image:secure_url" content="https://mdqualityapps.com/" />
+    <meta property="og:image" content="https://www.mdqualityapps.com/" />
+    <meta property="og:image:secure_url" content="https://www.mdqualityapps.com/" />
     <meta property="og:image:width" content="1640px" />
     <meta property="og:image:height" content="856px" />
     <meta name="twitter:card" content="summary_large_image" />
     <meta name="twitter:description" content="From migration to optimization, trust us for tailored solutions that elevate your business to new heights. Contact us for seamless and efficient cloud operations." />
     <meta name="twitter:title" content="Strategic Cloud Consulting Services | Expert Cloud Solutions" />
-    <meta name="twitter:image" content="https://mdqualityapps.com/" />
+    <meta name="twitter:image" content="https://www.mdqualityapps.com/" />
 <style>
         .card-services {
             border: none;

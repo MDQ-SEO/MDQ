@@ -7,21 +7,21 @@ include './header.php';
     <meta name="keywords" content="Healthcare IT solutions, Mobile app development for healthcare, Web app development in healthcare" />
     <title>Healthcare App Development in Chennai, India | MDQuality Apps</title>
     <meta name="robots" content="max-image-preview:large" />
-    <link rel="canonical" href="https://www.mdqualityapps.com/industry-healthcare.php" />
+    <link rel="canonical" href="https://www.mdqualityapps.com/industry-healthcare" />
     <meta property="og:locale" content="en_US" />
     <meta property="og:site_name" content="MDQuality Apps Solutions" />
     <meta property="og:title" content="Healthcare App Development in Chennai, India | MDQuality Apps" />
     <meta property="og:description" content="Build secure healthcare apps and medical software with MDQuality Apps in Chennai, India. We develop telemedicine, hospital management, and patient care solutions." />
-    <meta property="og:url" content="https://mdqualityapps.com/industry-healthcare.php" />
+    <meta property="og:url" content="https://www.mdqualityapps.com/industry-healthcare.php" />
     <meta property="article:publisher" content="MDQuality Apps Solutions" />
-    <meta property="og:image" content="https://mdqualityapps.com/" />
+    <meta property="og:image" content="https://www.mdqualityapps.com/" />
     <meta property="og:image:secure_url" content="https://mdqualityapps.com/" />
     <meta property="og:image:width" content="1640px" />
     <meta property="og:image:height" content="856px" />
     <meta name="twitter:card" content="summary_large_image" />
     <meta name="twitter:description" content="Build secure healthcare apps and medical software with MDQuality Apps in Chennai, India. We develop telemedicine, hospital management, and patient care solutions." />
     <meta name="twitter:title" content="Healthcare App Development in Chennai, India | MDQuality Apps" />
-    <meta name="twitter:image" content="https://mdqualityapps.com/" />
+    <meta name="twitter:image" content="https://www.mdqualityapps.com/" />
     <style>
         .card-services {
             border: none;

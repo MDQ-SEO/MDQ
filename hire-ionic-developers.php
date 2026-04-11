@@ -6,21 +6,21 @@ include './header.php';
 <meta name="keywords" content="Accelerate app development with Ionic, Ionic development services, Hire Ionic app developers, Hire dedicated Ionic developers, Affordable Ionic development services" />
 <title>Hire Ionic Developers in Chennai | MDQuality Apps</title>
 <meta name="robots" content="max-image-preview:large" />
-    <link rel="canonical" href="https://www.mdqualityapps.com/hire-ionic-developers.php" />
+    <link rel="canonical" href="https://www.mdqualityapps.com/hire-ionic-developers" />
     <meta property="og:locale" content="en_US" />
     <meta property="og:site_name" content="MDQuality Apps Solutions" />
     <meta property="og:title" content="Hire Ionic Developers in Chennai | MDQuality Apps" />
     <meta property="og:description" content="Hire expert Ionic developers in Chennai from MDQuality Apps for your next mobile app project. Build scalable and high-performance hybrid applications." />
-    <meta property="og:url" content="https://mdqualityapps.com/hire-ionic-developers.php" />
+    <meta property="og:url" content="https://www.mdqualityapps.com/hire-ionic-developers" />
     <meta property="article:publisher" content="MDQuality Apps Solutions" />
-    <meta property="og:image" content="https://mdqualityapps.com/" />
-    <meta property="og:image:secure_url" content="https://mdqualityapps.com/" />
+    <meta property="og:image" content="https://www.mdqualityapps.com/" />
+    <meta property="og:image:secure_url" content="https://www.mdqualityapps.com/" />
     <meta property="og:image:width" content="1640px" />
     <meta property="og:image:height" content="856px" />
     <meta name="twitter:card" content="summary_large_image" />
     <meta name="twitter:description" content="Hire expert Ionic developers in Chennai from MDQuality Apps for your next mobile app project. Build scalable and high-performance hybrid applications." />
     <meta name="twitter:title" content="Hire Ionic Developers in Chennai | MDQuality Apps" />
-    <meta name="twitter:image" content="https://mdqualityapps.com/" />
+    <meta name="twitter:image" content="https://www.mdqualityapps.com/" />
 <style>
         .card-services {
             border: none;

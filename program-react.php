@@ -7,21 +7,21 @@ include './header.php';
     <meta name="keywords" content="Java development services India, Java software development India, Hire Java developers India, Java software outsourcing" />
     <title>ReactJS Development Company in Chennai| Custom Solutions</title>
     <meta name="robots" content="max-image-preview:large" />
-    <link rel="canonical" href="https://www.mdqualityapps.com/program-react.php" />
+    <link rel="canonical" href="https://www.mdqualityapps.com/program-react" />
     <meta property="og:locale" content="en_US" />
     <meta property="og:site_name" content="MDQuality Apps Solutions" />
     <meta property="og:title" content="ReactJS Development Company in Chennai| Custom Solutions" />
     <meta property="og:description" content="Unlocking Potential with Tailored ReactJS Solutions: Seamless Performance, Scalability, and Expertise. Connect for Reliable Development Services." />
-    <meta property="og:url" content="https://mdqualityapps.com/program-react.php" />
+    <meta property="og:url" content="https://www.mdqualityapps.com/program-react" />
     <meta property="article:publisher" content="MDQuality Apps Solutions" />
-    <meta property="og:image" content="https://mdqualityapps.com/" />
-    <meta property="og:image:secure_url" content="https://mdqualityapps.com/" />
+    <meta property="og:image" content="https://www.mdqualityapps.com/" />
+    <meta property="og:image:secure_url" content="https://www.mdqualityapps.com/" />
     <meta property="og:image:width" content="1640px" />
     <meta property="og:image:height" content="856px" />
     <meta name="twitter:card" content="summary_large_image" />
     <meta name="twitter:description" content="Unlocking Potential with Tailored ReactJS Solutions: Seamless Performance, Scalability, and Expertise. Connect for Reliable Development Services." />
     <meta name="twitter:title" content="ReactJS Development Company in Chennai| Custom Solutions" />
-    <meta name="twitter:image" content="https://mdqualityapps.com/" />
+    <meta name="twitter:image" content="https://www.mdqualityapps.com/" />
     <style>
         .card-services {
             border: none;
@@ -54,7 +54,7 @@ include './header.php';
             <div class="col-lg-6 px-4" data-aos="fade-up" data-aos-duration="1500" data-aos-delay="100">
                 <h3 class="h2-heading ">Elevate Your Business with Cutting-edge Modern Applications</h3>
                 <p class="website-para">Craft highly scalable, user-friendly, and engaging applications that captivate and delight your audience.</p>
-                <p class="website-para">As a <a style="text-decoration: none; font-weight:600;" target="_blank"  href="https://mdqualityappsreact.blogspot.com/2024/04/welcome-to-mdquality-apps-your-premier.html">ReactJS development company</a>, MDQuality Apps specializes in creating robust and dynamic solutions. Our extensive range of React development company in chennai services empowers you to build high-performance web and mobile solutions. Leveraging the capabilities of this open-source JavaScript library framework, we provide a wide spectrum of services for developing advanced custom applications. The framework's attributes, such as reusable UI components, minimal coding, easy integrations, and unmatched flexibility, make it the perfect choice for constructing world-class applications. </p>
+                <p class="website-para">As a <a style="text-decoration: none; font-weight:600;" target="_blank"  href="https://www.mdqualityappsreact.blogspot.com/2024/04/welcome-to-mdquality-apps-your-premier.html">ReactJS development company</a>, MDQuality Apps specializes in creating robust and dynamic solutions. Our extensive range of React development company in chennai services empowers you to build high-performance web and mobile solutions. Leveraging the capabilities of this open-source JavaScript library framework, we provide a wide spectrum of services for developing advanced custom applications. The framework's attributes, such as reusable UI components, minimal coding, easy integrations, and unmatched flexibility, make it the perfect choice for constructing world-class applications. </p>
             </div>
             <div class="col-lg-6 d-flex justify-content-center align-items-center pb-5">
             <img width="60%" src="https://img.icons8.com/external-soleicons-solid-amoghdesign/500/1C46A8/external-react-native-soleicons-solid-vol-1-soleicons-solid-amoghdesign.png" alt="external-react-native-soleicons-solid-vol-1-soleicons-solid-amoghdesign"/>
@@ -67,7 +67,7 @@ include './header.php';
                 </div>
             </div>
             <div class="col-lg-6 px-5" data-aos="fade-up" data-aos-duration="1500" data-aos-delay="100">
-                <p class="website-para">Experience the benefits of our <a style="text-decoration: none; font-weight:600;" target="_blank" href="https://mdqualityappsreact.blogspot.com/2024/05/codewave-reactors-powering-your-digital.html"> ReactJS development services</a>, which focus on crafting powerful, secure, and scalable single-page apps (SPAs). We harness the potential of the open-source JavaScript framework to build distinctive and interactive UIs. With ReactJS, you can anticipate optimal app performance through code reusability and content rendering with the virtual DOM (Document Object Model), along with an extensive library of components.</p>
+                <p class="website-para">Experience the benefits of our <a style="text-decoration: none; font-weight:600;" target="_blank" href="https://www.mdqualityappsreact.blogspot.com/2024/05/codewave-reactors-powering-your-digital.html"> ReactJS development services</a>, which focus on crafting powerful, secure, and scalable single-page apps (SPAs). We harness the potential of the open-source JavaScript framework to build distinctive and interactive UIs. With ReactJS, you can anticipate optimal app performance through code reusability and content rendering with the virtual DOM (Document Object Model), along with an extensive library of components.</p>
                 <p class="website-para">As a dependable ReactJS development company in chennai, we dedicate ourselves to ensuring your projects achieve unparalleled success. Our dedicated experts, equipped with unparalleled technical proficiency and consulting expertise, are capable of creating anything from a simple business website to a complex application.</p>
             </div>
         </div>

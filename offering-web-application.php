@@ -6,21 +6,21 @@ include './header.php';
 <meta name="keywords" content="Full-stack development company India, Web application development India, Custom web development services, Professional app developers India, Indian web development agency" />
 <title>Custom Web Application Development in Chennai, India | MDQuality Apps</title>
 <meta name="robots" content="max-image-preview:large" />
-<link rel="canonical" href="https://www.mdqualityapps.com/offering-web-application.php" />
+<link rel="canonical" href="https://www.mdqualityapps.com/offering-web-application" />
 <meta property="og:locale" content="en_US" />
 <meta property="og:site_name" content="MDQuality Apps Solutions" />
 <meta property="og:title" content="ustom Web Application Development in Chennai, India | MDQuality Apps" />
 <meta property="og:description" content="MDQuality Apps is a trusted web application development company specializing in secure, custom software that streamlines operations and maximizes digital ROI." />
-<meta property="og:url" content="https://mdqualityapps.com/offering-web-application.php" />
+<meta property="og:url" content="https://www.mdqualityapps.com/offering-web-application" />
 <meta property="article:publisher" content="MDQuality Apps Solutions" />
-<meta property="og:image" content="https://mdqualityapps.com/" />
-<meta property="og:image:secure_url" content="https://mdqualityapps.com/" />
+<meta property="og:image" content="https://www.mdqualityapps.com/" />
+<meta property="og:image:secure_url" content="https://www.mdqualityapps.com/" />
 <meta property="og:image:width" content="1640px" />
 <meta property="og:image:height" content="856px" />
 <meta name="twitter:card" content="summary_large_image" />
 <meta name="twitter:description" content="MDQuality Apps is a trusted web application development company specializing in secure, custom software that streamlines operations and maximizes digital ROI." />
 <meta name="twitter:title" content="ustom Web Application Development in Chennai, India | MDQuality Apps" />
-<meta name="twitter:image" content="https://mdqualityapps.com/" />
+<meta name="twitter:image" content="https://www.mdqualityapps.com/" />
 <style>
         .card-services {
             border: none;
@@ -43,7 +43,7 @@ include './header.php';
     "@type": "LocalBusiness",
     "name": "MDQuality Apps",
     "image": "https://www.mdqualityapps.com/images/logo.png",
-    "url": "https://www.mdqualityapps.com/offering-web-application.php",
+    "url": "https://www.mdqualityapps.com/offering-web-application",
     "vatID": "33ABPFM9307G1Z2",
     "telephone": "+918838995745",
     

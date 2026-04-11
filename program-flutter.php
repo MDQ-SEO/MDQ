@@ -7,21 +7,21 @@ include './header.php';
     <meta name="keywords" content="php web development company in chennai,php web application and web development,web design company in chennai,php framework,web development company in chennai,php web development company,web design and web development" />
     <title>Custom Flutter App Development Company in Chennai, India | MDQuality Apps</title>
     <meta name="robots" content="max-image-preview:large" />
-    <link rel="canonical" href="https://www.mdqualityapps.com/program-flutter.php" />
+    <link rel="canonical" href="https://www.mdqualityapps.com/program-flutter" />
     <meta property="og:locale" content="en_US" />
     <meta property="og:site_name" content="MDQuality Apps Solutions" />
     <meta property="og:title" content="Flutter App Development Company in Chennai, India | MDQuality Apps" />
     <meta property="og:description" content="Custom Flutter app development in Chennai, India by MDQuality Apps. We build fast, high-performance cross-platform mobile apps with seamless user experiences." />
-    <meta property="og:url" content="https://mdqualityapps.com/program-flutter.php" />
+    <meta property="og:url" content="https://www.mdqualityapps.com/program-flutter" />
     <meta property="article:publisher" content="MDQuality Apps Solutions" />
-    <meta property="og:image" content="https://mdqualityapps.com/" />
-    <meta property="og:image:secure_url" content="https://mdqualityapps.com/" />
+    <meta property="og:image" content="https://www.mdqualityapps.com/" />
+    <meta property="og:image:secure_url" content="https://www.mdqualityapps.com/" />
     <meta property="og:image:width" content="1640px" />
     <meta property="og:image:height" content="856px" />
     <meta name="twitter:card" content="summary_large_image" />
     <meta name="twitter:description" content="Custom Flutter app development in Chennai, India by MDQuality Apps. We build fast, high-performance cross-platform mobile apps with seamless user experiences." />
     <meta name="twitter:title" content="Flutter App Development Company in Chennai, India | MDQuality Apps" />
-    <meta name="twitter:image" content="https://mdqualityapps.com/" />
+    <meta name="twitter:image" content="https://www.mdqualityapps.com/" />
     <style>
         .card-services {
             border: none;
@@ -44,7 +44,7 @@ include './header.php';
     "@type": "LocalBusiness",
     "name": "MDQuality Apps",
     "image": "https://www.mdqualityapps.com/images/logo.png",
-    "url": "https://www.mdqualityapps.com/program-flutter.php",
+    "url": "https://www.mdqualityapps.com/program-flutter",
     "vatID": "33ABPFM9307G1Z2",
     "telephone": "+918838995745",
     "address": {
@@ -200,7 +200,7 @@ include './header.php';
     <div class="container-fluid py-4">
         <div class="row">
             <div class="col-lg-6 px-4 py-3" data-aos="fade-up" data-aos-duration="1500" data-aos-delay="100">
-                <p class="website-para">At MDQuality Apps, we are more than just a development agency; we are your dedicated partner in digital transformation. As a<a style="text-decoration:none; font-weight:600" target="_blank" href="https://mdqualityappssolutions.blogspot.com/2024/04/elevate-your-mobile-app-with-top.html">leading Flutter development company in Chennai </a> we leverage years of global expertise and 120+ successful project deliveries to build cutting-edge, platform-independent mobile solutions.</p>
+                <p class="website-para">At MDQuality Apps, we are more than just a development agency; we are your dedicated partner in digital transformation. As a<a style="text-decoration:none; font-weight:600" target="_blank" href="https://www.mdqualityappssolutions.blogspot.com/2024/04/elevate-your-mobile-app-with-top.html">leading Flutter development company in Chennai </a> we leverage years of global expertise and 120+ successful project deliveries to build cutting-edge, platform-independent mobile solutions.</p>
                 <p class="website-para">Our expert developers specialize in crafting seamless, high-performance experiences for Native Android, iOS, and Cross-Platform applications, ensuring your business stays ahead in the modern mobile landscape. Consult with our team today to turn your vision into a scalable reality.<a style="text-decoration:none; font-weight:600" target="_blank" href="./offering-mobile-app.php">Android</a>, <a style="text-decoration:none; font-weight:600" target="_blank" href="./hire-ios-developers.php">iOS</a>, and cross-platform applications.</p>
             </div>
             <div class="col-lg-6 pt-5">

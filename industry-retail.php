@@ -8,21 +8,21 @@ include './header.php';
     <meta name="keywords" content="Progressive web app for retail, Cloud-based retail solutions, Mobile app development for retail, Web app development for retail" />
     <title>Retail App Development Company in Chennai, India | MDQuality Apps</title>
     <meta name="robots" content="max-image-preview:large" />
-    <link rel="canonical" href="https://www.mdqualityapps.com/industry-retail.php" />
+    <link rel="canonical" href="https://www.mdqualityapps.com/industry-retail" />
     <meta property="og:locale" content="en_US" />
     <meta property="og:site_name" content="MDQuality Apps Solutions" />
     <meta property="og:title" content="Retail App Development Company in Chennai, India | MDQuality Apps" />
     <meta property="og:description" content="Retail app development in Chennai, India by MDQuality Apps. Build smart retail solutions, eCommerce platforms, POS systems, and inventory management applications." />
-    <meta property="og:url" content="https://mdqualityapps.com/industry-retail.php" />
+    <meta property="og:url" content="https://www.mdqualityapps.com/industry-retail" />
     <meta property="article:publisher" content="MDQuality Apps Solutions" />
-    <meta property="og:image" content="https://mdqualityapps.com/" />
-    <meta property="og:image:secure_url" content="https://mdqualityapps.com/" />
+    <meta property="og:image" content="https://www.mdqualityapps.com/" />
+    <meta property="og:image:secure_url" content="https://www.mdqualityapps.com/" />
     <meta property="og:image:width" content="1640px" />
     <meta property="og:image:height" content="856px" />
     <meta name="twitter:card" content="summary_large_image" />
     <meta name="twitter:description" content="Retail app development in Chennai, India by MDQuality Apps. Build smart retail solutions, eCommerce platforms, POS systems, and inventory management applications." />
     <meta name="twitter:title" content="Retail App Development Company in Chennai, India | MDQuality Apps" />
-    <meta name="twitter:image" content="https://mdqualityapps.com/" />
+    <meta name="twitter:image" content="https://www.mdqualityapps.com/" />
     <style>
         .card-services {
             border: none;

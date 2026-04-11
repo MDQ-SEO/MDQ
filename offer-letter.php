@@ -12,7 +12,7 @@ include './header.php'
     <meta name="keywords" content="Mobile App Developers India, Top-rated App Development Team, Best App Developers in India, Hire Dedicated App Developers" />
     <title>Hire Top-rated Developers Team in India</title>
   <meta name="robots" content="max-image-preview:large" />
-  <link rel="canonical" href="https://www.mdqualityapps.com/offer-letter.php" />
+  <link rel="canonical" href="https://www.mdqualityapps.com/offer-letter" />
   <meta property="og:locale" content="en_US" />
   <meta property="og:site_name" content="MDQuality Apps Solutions" />
   <meta property="og:title" content="Hire Top-rated Developers Team in India" />

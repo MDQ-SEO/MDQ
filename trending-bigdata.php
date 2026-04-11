@@ -6,21 +6,21 @@ include './header.php';
 <meta name="keywords" content="Big Data Services, Big Data Consulting Services, Big Data Infrastructure Solutions" />
 <title>Cutting-Edge Big Data Services | Your Data Solutions Partner</title>
 <meta name="robots" content="max-image-preview:large" />
-    <link rel="canonical" href="https://www.mdqualityapps.com/trending-bigdata.php" />
+    <link rel="canonical" href="https://www.mdqualityapps.com/trending-bigdata" />
     <meta property="og:locale" content="en_US" />
     <meta property="og:site_name" content="MDQuality Apps Solutions" />
     <meta property="og:title" content="Cutting-Edge Big Data Services | Your Data Solutions Partner" />
     <meta property="og:description" content="Discover powerful Big Data services tailored to your business needs. Explore analytics, seamless integration, and scalable infrastructure for optimal business insights." />
-    <meta property="og:url" content="https://mdqualityapps.com/trending-bigdata.php" />
+    <meta property="og:url" content="https://www.mdqualityapps.com/trending-bigdata" />
     <meta property="article:publisher" content="MDQuality Apps Solutions" />
-    <meta property="og:image" content="https://mdqualityapps.com/" />
-    <meta property="og:image:secure_url" content="https://mdqualityapps.com/" />
+    <meta property="og:image" content="https://www.mdqualityapps.com/" />
+    <meta property="og:image:secure_url" content="https://www.mdqualityapps.com/" />
     <meta property="og:image:width" content="1640px" />
     <meta property="og:image:height" content="856px" />
     <meta name="twitter:card" content="summary_large_image" />
     <meta name="twitter:description" content="Discover powerful Big Data services tailored to your business needs. Explore analytics, seamless integration, and scalable infrastructure for optimal business insights." />
     <meta name="twitter:title" content="Cutting-Edge Big Data Services | Your Data Solutions Partner" />
-    <meta name="twitter:image" content="https://mdqualityapps.com/" />
+    <meta name="twitter:image" content="https://www.mdqualityapps.com/" />
 <style>
         .card-services {
             border: none;

@@ -7,21 +7,21 @@ include './header.php';
     <meta name="keywords" content="Manufacturing Software Mobile App Developers India, Top-rated App Development Team, Best App Developers in India, Hire Dedicated App Developers" />
     <title>Manufacturing Software Development in Chennai, India | MDQuality Apps</title>
     <meta name="robots" content="max-image-preview:large" />
-    <link rel="canonical" href="https://www.mdqualityapps.com/industry-manufacture.php" />
+    <link rel="canonical" href="https://www.mdqualityapps.com/industry-manufacture" />
     <meta property="og:locale" content="en_US" />
     <meta property="og:site_name" content="MDQuality Apps Solutions" />
     <meta property="og:title" content="Manufacturing Software Development in Chennai, India | MDQuality Apps" />
     <meta property="og:description" content="Manufacturing software development in Chennai, India by MDQuality Apps. Build smart factory apps, automation systems, and Industry 4.0 solutions for modern manufacturing." />
-    <meta property="og:url" content="https://mdqualityapps.com/industry-manufacture.php" />
+    <meta property="og:url" content="https://www.mdqualityapps.com/industry-manufacture" />
     <meta property="article:publisher" content="MDQuality Apps Solutions" />
-    <meta property="og:image" content="https://mdqualityapps.com/" />
-    <meta property="og:image:secure_url" content="https://mdqualityapps.com/" />
+    <meta property="og:image" content="https://www.mdqualityapps.com/" />
+    <meta property="og:image:secure_url" content="https://www.mdqualityapps.com/" />
     <meta property="og:image:width" content="1640px" />
     <meta property="og:image:height" content="856px" />
     <meta name="twitter:card" content="summary_large_image" />
     <meta name="twitter:description" content="Manufacturing software development in Chennai, India by MDQuality Apps. Build smart factory apps, automation systems, and Industry 4.0 solutions for modern manufacturing." />
     <meta name="twitter:title" content="Manufacturing Software Development in Chennai, India | MDQuality Apps" />
-    <meta name="twitter:image" content="https://mdqualityapps.com/" />
+    <meta name="twitter:image" content="https://www.mdqualityapps.com/" />
     <style>
         .card-services {
             border: none;

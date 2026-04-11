@@ -6,21 +6,21 @@ include './header.php';
 <meta name="keywords" content="Java Spring Boot developers, Hire Java Spring Boot experts, Java Spring Boot development services, Skilled Spring Boot engineers, Reliable Spring Boot coding services" />
 <title>Expert Java Spring Boot Developers for Hire | Proven Track Record</title>
 <meta name="robots" content="max-image-preview:large" />
-    <link rel="canonical" href="https://www.mdqualityapps.com/hire-javaspring-developers.php" />
+    <link rel="canonical" href="https://www.mdqualityapps.com/hire-javaspring-developers" />
     <meta property="og:locale" content="en_US" />
     <meta property="og:site_name" content="MDQuality Apps Solutions" />
     <meta property="og:title" content="Expert Java Spring Boot Developers for Hire | Proven Track Record" />
     <meta property="og:description" content="Hire expert Java Spring developers in Chennai from MDQuality Apps for your next web application or enterprise project. Build scalable and secure solutions." />
-    <meta property="og:url" content="https://mdqualityapps.com/hire-javaspring-developers.php" />
+    <meta property="og:url" content="https://www.mdqualityapps.com/hire-javaspring-developers" />
     <meta property="article:publisher" content="MDQuality Apps Solutions" />
-    <meta property="og:image" content="https://mdqualityapps.com/" />
-    <meta property="og:image:secure_url" content="https://mdqualityapps.com/" />
+    <meta property="og:image" content="https://www.mdqualityapps.com/" />
+    <meta property="og:image:secure_url" content="https://www.mdqualityapps.com/" />
     <meta property="og:image:width" content="1640px" />
     <meta property="og:image:height" content="856px" />
     <meta name="twitter:card" content="summary_large_image" />
     <meta name="twitter:description" content="Hire expert Java Spring developers in Chennai from MDQuality Apps for your next web application or enterprise project. Build scalable and secure solutions." />
     <meta name="twitter:title" content="Expert Java Spring Boot Developers for Hire | Proven Track Record" />
-    <meta name="twitter:image" content="https://mdqualityapps.com/" />
+    <meta name="twitter:image" content="https://www.mdqualityapps.com/" />
 <style>
         .card-services {
             border: none;
